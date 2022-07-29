@@ -20,7 +20,7 @@ public class OlaMundo extends HttpServlet {
 		out.println("<html>");
 		out.println("<body>");
 		out.println("<h1>Olá Mundo</h1>");
-		out.println("Testando Servlet no curso da AlgaWorks.");
+		out.println("Testando Servlet no curso de JSP!!.");
 		out.println("</body>");
 		out.println("</html>");
 	}
